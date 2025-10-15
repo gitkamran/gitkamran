@@ -11,9 +11,9 @@
             alt="mkamran_ir" />
     </a>
 </div>
-<a href="[https://www.youtube.com/@mkamran_ir](https://github.com/mohammadkamrannn)" target="_blank">
-        old github
-    </a>
+<a href="https://github.com/mohammadkamrannn" target="_blank">
+    old github
+</a>
 <hr width="50%">
 
 <h3>Skills</h3>
